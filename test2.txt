@@ -1,0 +1,2 @@
+﻿Ceci est un fichier de test pour le Projet 2.
+Il sert a valider le televersement via HttpFS.
